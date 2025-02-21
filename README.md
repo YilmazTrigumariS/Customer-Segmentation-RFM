@@ -1,6 +1,6 @@
 # **RFM Analysis for Customer Segmentation**  
 
-**Analysis by: Yilmaz Trigumari Syah Putra, Angga Suka Budi, Muhammad Iqbal, Sapik Basmalah**  
+**Analysis by: Yilmaz Trigumari Syah Putra, Angga Suka Budi, Muhammad Iqbal, Syafiq Basmallah**  
 
 ---
 
